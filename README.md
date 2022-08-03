@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gli1ch
+- 👋 Hi, I’m @GediminasLA
 - 👀 I’m interested in development, ethical hacking.
 - 🌱 I’m currently learning swift(iOS) and Web Development.
 - 💞️ I’m looking to collaborate on ...
