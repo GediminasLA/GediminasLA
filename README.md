@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GediminasLA
-- 👀 I’m interested in development, ethical hacking.
+- 👀 I’m interested in software development, ethical hacking.
 - 🌱 I’m currently learning swift(iOS) and Web Development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
