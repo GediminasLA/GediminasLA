@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GediminasLA
 - 👀 I’m interested in software development, ethical hacking.
-- 🌱 I’m currently learning swift(iOS) and Web Development.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Web Development.
+- 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me ...
 
 <!---
